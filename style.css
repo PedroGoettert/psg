@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+
+    margin: auto;
+    max-width: 500px;
+    background-color: blue;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+input{
+
+    padding: 1px;
+    margin-bottom: 5px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: white;
+
+}
+    
+
+
+#calcular{
+
+    width: 100%;
+    border-radius: 5px;
+    background-color: white;
+    border: solid white 2px;
+
+}
+
+#calcular:hover{
+
+    border: solid black 2px;
+}
